@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allowedPersonNameChars">abcdefghijklmnopqrstuvwxysz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="allowedEmailChars">abcdefghijklmnopqrstuvwxyszABCDEFGHIJKLMNOPQRSTUVWXYZ@_.1234567890-</string>
+    <string name="allowedAlphanumericNameChars">abcdefghijklmnopqurstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="allowedCompanyNameChars">abcdefghijklmnopqurstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_. /\'\,\"\(\)\-</string>
+    <string name="allowedAddressNameChars">abcdefghijklmnopqurstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_. \,/\'"\(\)\-\;\:</string>
+    <string name="allowedPhoneChars">1234567890+ \(\-\)</string>
+    <string name="allowAlphabets">abcdefghijklmnopqurstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="allowNumeric">0123456789</string>
+    <string name="noSpecialChars">abcdefghijklmnopqrstuvwxysz ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+-*/\</string>
+    <string name="allowedFirstLastNameChars">abcdefghijklmnopqrstuvwxyszABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="allowPassword">123456789abcdefghijklmnopqrstuvwxyszABCDEFGHIJKLMNOPQRSTUVWXYZ@_.+\(\-\)\-\;\:\'"\/,\$\%\&amp;*!\?</string>
+
+    <!-- fonts-->
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="fontName" format="string" />
+
+    <declare-styleable name="CustomTextView">
+        <attr name="fontName" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomRadioButton">
+        <attr name="fontName" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomButton">
+        <attr name="fontName" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomCheckBox">
+        <attr name="fontName" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomSwitch">
+        <attr name="fontName" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomEditText">
+        <attr name="fontName" />
+        <attr name="allowFirstSpace" format="boolean" />
+        <attr name="filterType" format="enum">
+            <enum name="agencyId" value="1" />
+            <enum name="phone" value="2" />
+            <enum name="fullName" value="3" />
+            <enum name="firstLastName" value="4" />
+            <enum name="userName" value="5" />
+            <enum name="address" value="6" />
+            <enum name="state" value="7" />
+            <enum name="zipCode" value="8" />
+            <enum name="companyName" value="9" />
+            <enum name="password" value="10" />
+            <enum name="alphaNumeric" value="11" />
+            <enum name="onlyAlphabets" value="12" />
+            <enum name="onlyNumbers" value="13" />
+            <enum name="noSpecialChars" value="14" />
+            <enum name="accountName" value="15" />
+            <enum name="bankName" value="16" />
+        </attr>
+    </declare-styleable>
+
+</resources>

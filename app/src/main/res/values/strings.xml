@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="loading">Loading…</string>
+    <string name="api_failure">Api failure</string>
+    <string name="internet_not_available">Please check your internet connection and try again</string>
+    <string name="resource_not_found">Resource not found</string>
+    <string name="server_conflict">Server conflicts</string>
+    <string name="unknown_error_occurred">Unknown error occurred</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
